@@ -1,4 +1,7 @@
 
-This application has a small UI. In backend it uses windows WlanAPI.dll. It enumerates all the wifi network around. Enables you to connect to any of the wifi network.
-It has the extra feature of seeing the profile of the wifi saved in your machine. You can download that profile.
-If you want to delete the profile from your machine. This tool will do that for you. This is necessary if you don't want to connect automatically to that Wifi Network. Instead you will require to enter the network passphrase.
+This application has a small UI. In backend it uses windows WlanAPI.dll. It enumerates all
+the wifi network around. Enables you to connect to any of the wifi network.
+It has the extra feature of seeing the profile of the wifi saved in your machine. 
+You can download that profile.If you want to delete the profile from your machine. 
+This tool will do that for you. This is necessary if you don't want to connect automatically 
+to that Wifi Network. Instead you will require to enter the network passphrase.
