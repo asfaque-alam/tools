@@ -1,0 +1,1 @@
+reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\XYZ.exe" /v TracingFlags /t REG_DWORD /d 1 /f

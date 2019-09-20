@@ -1,0 +1,1 @@
+reg delete "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\XYZ.exe" /v TracingFlags /f
